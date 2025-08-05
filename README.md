@@ -1,7 +1,7 @@
 <h1 align="center">Matheus Xavier da Silva</h1>
 <p align="center">
-  🚀 Desenvolvedor Full Stack Júnior <br>
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+  🚀 Desenvolvedor Full Stack <br>
+  🎓 Formado em Análise e Desenvolvimento de Sistemas <br>
   🌎 Rio de Janeiro - Brasil
 </p>
 
